@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/robot-app/static/css/main.67942509.chunk.css",
+    "main.js": "/robot-app/static/js/main.c3094547.chunk.js",
+    "main.js.map": "/robot-app/static/js/main.c3094547.chunk.js.map",
+    "runtime~main.js": "/robot-app/static/js/runtime~main.ab1aa995.js",
+    "runtime~main.js.map": "/robot-app/static/js/runtime~main.ab1aa995.js.map",
+    "static/css/2.31dafeb2.chunk.css": "/robot-app/static/css/2.31dafeb2.chunk.css",
+    "static/js/2.d04e4f50.chunk.js": "/robot-app/static/js/2.d04e4f50.chunk.js",
+    "static/js/2.d04e4f50.chunk.js.map": "/robot-app/static/js/2.d04e4f50.chunk.js.map",
+    "index.html": "/robot-app/index.html",
+    "precache-manifest.c1188a14422d6850a3e62cb6691cf214.js": "/robot-app/precache-manifest.c1188a14422d6850a3e62cb6691cf214.js",
+    "service-worker.js": "/robot-app/service-worker.js",
+    "static/css/2.31dafeb2.chunk.css.map": "/robot-app/static/css/2.31dafeb2.chunk.css.map",
+    "static/css/main.67942509.chunk.css.map": "/robot-app/static/css/main.67942509.chunk.css.map"
+  }
+}
